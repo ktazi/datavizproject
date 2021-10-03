@@ -1,0 +1,5 @@
+{
+  "maps_kml": "data/position_history.kml",
+  "maps": "data/my_itinerary.csv",
+  "spotify" : "data/spotify_dataframe.csv"
+}
